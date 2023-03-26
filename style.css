@@ -180,7 +180,7 @@ textarea:not(:placeholder-shown)~label {
     border: 1px solid #000;
 }
 
-.main-task-p {
+.main-task {
     background-color: #fff;
     height: 87%;
     padding: 5px;
@@ -189,7 +189,7 @@ textarea:not(:placeholder-shown)~label {
 
 
 
-.btn-done-class {
+.btn-done {
     width: fit-content;
     position: absolute;
     top: 3px;
